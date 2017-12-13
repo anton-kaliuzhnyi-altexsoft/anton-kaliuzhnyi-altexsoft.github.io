@@ -13,6 +13,20 @@
 					<key>url</key>
 					<string>https://budurl.me/z33tj</string>
 				</dict>
+				<!-- display-image: the icon 57x57 to display during download.-->
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://anton-kaliuzhnyi-altexsoft.github.io/DisplayImage.png</string>
+				</dict>
+				<!-- full-size-image: the large 512x512 icon used by iTunes. -->
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://anton-kaliuzhnyi-altexsoft.github.io/FullSizeImage.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
