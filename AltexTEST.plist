@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://client-thread-turbo-research-acc.s3.amazonaws.com/studies/516c8a41-9f85-4a6c-9a7b-edc80f67e5bc/builds/516c8a41-9f85-4a6c-9a7b-edc80f67e5bc.ipa?X-Amz-Security-Token=FQoDYXdzEGEaDCH3cY7Wl%2FEym475MSK3A%2Bu0DK5PsMMqaflnHxJMY27pRrgFROhjKjMXPuj%2BnKfEDWP%2BdnzOC8NeQWqBZjzP2NGsjJ9HgRMOmvPodQj%2BYatZ%2BcfCPDy%2BLEUW3a%2F9haBFYoLeewXx%2BePgE1USkbVm4BWRRbnl14rDt6gdGOn8uvvOAs7J2giJUIWX%2FLTqMnRa9GO1tWLqP7dC0F%2FX2PIEet3IRXbHuRI%2BCkv8uagHCOBq1jhNcG1GTVd%2FuBmZ0HmsawNRgXozWKN2JrZBVQ2f6ocxUTppkPQ7jA%2BOXgCPYavTPMSPuR68E0HHsx6L98n5w%2BZVw1ydq53Mw8bUPX%2B%2FwmFr5dIH7KQv%2FSMm2IxeMtDpAAgpgQqVE4BPglMZs7H%2BjjsI41DUOcZPjWzsaew7Xd5J59hkcUK6coCol%2BFNqIfXGIDR0NOWdBc%2BnST5utrW%2Bvv4IJ3w1MfAVHK50acr%2F5BqZWW0GG%2FYKopYv6Hq5qqgfZMP%2FkPgBCGSMBmp8Z5NcUv934ObnXkdi1l0wlNQqXG1FMRCTW0WrFL1aw6Y%2FFxHg2C4xhl7fYQacKufVk1UdaW4Xe4FRRzO32M%2FV%2Fbtj6Gnws4CtU0ovtrP0QU%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20171215T162245Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIAJCD23CQYIRZFHE6Q%2F20171215%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e7e5520eb495cd6df17776c59f0f22a080d86600d29afd3e1885237e07b8755a</string>
+					<string>https://client-thread-turbo-research-acc.s3.amazonaws.com/studies/516c8a41-9f85-4a6c-9a7b-edc80f67e5bc/builds/516c8a41-9f85-4a6c-9a7b-edc80f67e5bc.ipa</string>
 				</dict>
 				<!-- display-image: the icon 57x57 to display during download.-->
 				<dict>
