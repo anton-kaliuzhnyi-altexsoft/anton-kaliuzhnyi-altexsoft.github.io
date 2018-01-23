@@ -11,33 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://client-thread-turbo-research-acc.s3.amazonaws.com/studies/516c8a41-9f85-4a6c-9a7b-edc80f67e5bc/builds/516c8a41-9f85-4a6c-9a7b-edc80f67e5bc.ipa</string>
+					<string>https://anton-kaliuzhnyi-altexsoft.github.io/Dtestd/Dtestd.ipa</string>
 				</dict>
-				<!-- display-image: the icon 57x57 to display during download.-->
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://anton-kaliuzhnyi-altexsoft.github.io/DisplayImage.png</string>
+					<string>https://anton-kaliuzhnyi-altexsoft.github.io/Dtestd/DisplayImage.png</string>
 				</dict>
-				<!-- full-size-image: the large 512x512 icon used by iTunes. -->
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://anton-kaliuzhnyi-altexsoft.github.io/FullSizeImage.png</string>
+					<string>https://anton-kaliuzhnyi-altexsoft.github.io/Dtestd/FullSizeImage.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.thread.ut516c8a41</string>
+				<string>com.thread.utb4c6e44d</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>AltexTEST</string>
+				<string>Dtestd</string>
 			</dict>
 		</dict>
 	</array>
